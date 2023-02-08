@@ -1,0 +1,334 @@
+Letter ID,Sender,Recipient,Date ,Sender ID,Recipient ID,Origin,Destination,Origin GeoNames ID,Destination GeoNames ID
+8063638,Isaac Beeckman,Marin Mersenne,1629-03,7807076,7584584,Dordrecht (NL),Paris (FR),2756669,2988507
+8063688,Isaac Beeckman,Marin Mersenne,1629-06,7807076,7584584,Dordrecht (NL),Paris (FR),2756669,2988507
+8063757,Isaac Beeckman,Marin Mersenne,1629-10-01,7807076,7584584,Dordrecht (NL),Paris (FR),2756669,2988507
+8064349,Isaac Beeckman,Marin Mersenne,1631-10-07,7807076,7584584,Dordrecht (NL),Paris (FR),2756669,2988507
+8064483,Constantijn Huygens,Jacob Golius,1632-04-07,7807069,7807199,Den Haag (NL),Leiden (NL),2747373,2751773
+8064490,Jacob Golius,Constantijn Huygens,1632-04-16,7807199,7807069,Leiden (NL),Den Haag (NL),2751773,2747373
+8064508,David le Leu de Wilhem,Constantijn Huygens,1632-06-04,7807253,7807069,Den Haag (NL),Venlo (NL),2747373,2745641
+8064563,Constantijn Huygens,David le Leu de Wilhem,1632-09-19,7807069,7807253,Maastricht (NL),Den Haag (NL),2751283,2747373
+8064578,Constantijn Huygens,Jacob Golius,1632-10-21,7807069,7807199,Maastricht (NL),Leiden (NL),2751283,2751773
+8064589,Jacob Golius,Constantijn Huygens,1632-11-01,7807199,7807069,Leiden (NL),Maastricht (NL),2751773,2751283
+8065505,Henricus Reneri,Constantijn Huygens,1635-04-14,7568881,7807069,Utrecht (NL),Den Haag (NL),2745912,2747373
+8066509,Abraham de Mory,Constantijn Huygens,1636-07-16,7807388,7807069,Den Haag (NL),Amsterdam (NL),2747373,2759794
+8067035,Pierre de Fermat,Marin Mersenne,1637-04,7584740,7584584,Toulouse (FR),Paris (FR),2972315,2988507
+8067144,Hugo de Groot,Nicolas-Claude Fabry de Peiresc,1637-05-22,7807075,7807131,Paris (FR),Aix-en-Provence (FR),2988507,3038354
+8067388,Anthony Studler van Surck,Constantijn Huygens,1637-08-17,8100268,7807069,Amsterdam (NL),Ginneken (NL),2759794,
+8067631,Pierre de Fermat,Marin Mersenne,1637-11,7584740,7584584,Toulouse (FR),Paris (FR),2972315,2988507
+8067755,Alphonse Pollot,Constantijn Huygens,1638-01-30,7582261,7807069,,,,
+8068090,David le Leu de Wilhem,Constantijn Huygens,1638-06-05,7807253,7807069,Den Haag (NL),Heerewaarden (NL),2747373,2754662
+8068131,Constantijn Huygens,Erycius Puteanus,1638-06-25,7807069,7807085,Bergen op Zoom (NL),Leuven (BE),2759145,2792482
+8068151,Constantijn Huygens,Daniël Heinsius,1638-06-30,7807069,7807080,Bergen op Zoom (NL),Leiden (NL),2759145,2751773
+8068414,Hugo de Groot,Samson Johnson,1638-09-30,7807075,7807331,Paris (FR),Den Haag (NL),2988507,2747373
+8068511,Florimond Debeaune,Marin Mersenne,1638-11-13,7807514,7584584,Blois (FR),Paris (FR),3032213,2988507
+8068570,Erycius Puteanus,Constantijn Huygens,1638-12-14,7807085,7807069,Leuven (BE),Den Haag (NL),2792482,2747373
+8068585,Constantijn Huygens,Erycius Puteanus,1638-12-23,7807069,7807085,Den Haag (NL),Leuven (BE),2747373,2792482
+8068822,Florimond Debeaune,Marin Mersenne,1639-04-03,7807514,7584584,Blois (FR),Paris (FR),3032213,2988507
+8069210,Constantijn Huygens,Jan Albert Ban,1639-08-26,7807069,9911049,Rheinberg (DE),Haarlem (NL),2847662,2755003
+8069211,Constantijn Huygens,Marin Mersenne,1639-08-26,7807069,7584584,Rheinberg (DE),Paris (FR),2847662,2988507
+8069317,Jan Albert Ban,Constantijn Huygens,1639-10-04,9911049,7807069,Haarlem (NL),Bergen op Zoom (NL),2755003,2759145
+8069343,Jan Albert Ban,Constantijn Huygens,1639-10-16,9911049,7807069,Haarlem (NL),Den Haag (NL),2755003,2747373
+8072325,David le Leu de Wilhem,Constantijn Huygens,1641-06-22,7807253,7807069,Den Haag (NL),Boxmeer (NL),2747373,2758462
+8072390,David le Leu de Wilhem,Constantijn Huygens,1641-07-11,7807253,7807069,Den Haag (NL),Boxmeer (NL),2747373,2758462
+8072993,Constantijn Huygens,Caspar Barlaeus,1642-03-05,7807069,7807074,Den Haag (NL),Amsterdam (NL),2747373,2759794
+8073005,Caspar Barlaeus,Constantijn Huygens,1642-03-10,7807074,7807069,Amsterdam (NL),Den Haag (NL),2759794,2747373
+8073064,Constantijn Huygens,Marin Mersenne,1642-04-07,7807069,7584584,Den Haag (NL),Paris (FR),2747373,2988507
+8073101,Constantijn Huygens,Jan Albert Ban,1642-04-29,7807069,9911049,Den Haag (NL),Haarlem (NL),2747373,2755003
+8073329,Constantijn Huygens,Caspar Barlaeus,1642-08-01,7807069,7807074,Rheinberg (DE),Amsterdam (NL),2847662,2759794
+8073347,Caspar Barlaeus,Constantijn Huygens,1642-08-07,7807074,7807069,Den Haag (NL),Rheinberg (DE),2747373,2847662
+8073378,Henrick Bruno,Constantijn Huygens,1642-08-16,7807538,7807069,Den Haag (NL),Rheinberg (DE),2747373,2847662
+8073380,André Rivet,Constantijn Huygens,1642-08-17,7807233,7807069,Den Haag (NL),Rheinberg (DE),2747373,2847662
+8073429,Constantijn Huygens,Caspar Barlaeus,1642-09-01,7807069,7807074,Rheinberg (DE),Amsterdam (NL),2847662,2759794
+8073516,Caspar Barlaeus,Constantijn Huygens,1642-10-05,7807074,7807069,Amsterdam (NL),Den Haag (NL),2759794,2747373
+8073542,Jan Albert Ban,Constantijn Huygens,1642-10-18,9911049,7807069,Den Haag (NL),Den Haag (NL),2747373,2747373
+8074119,David le Leu de Wilhem,Constantijn Huygens,1643-07-08,7807253,7807069,Den Haag (NL),Assenede (BE),2747373,2803026
+8074137,David le Leu de Wilhem,Constantijn Huygens,1643-07-12,7807253,7807069,Den Haag (NL),Assenede (BE),2747373,2803026
+8074509,Jacob van der Burgh,Constantijn Huygens,1643-11-17,7807158,7807069,Liège (BE),Den Haag (NL),2792413,2747373
+8074623,Hugo de Groot,Willem de Groot,1644-01-02,7807075,7807079,Paris (FR),Den Haag (NL),2988507,2747373
+8075241,Adriaan Heereboord,Constantijn Huygens,1644-07-24,7569869,7807069,Leiden (NL),Maldegem (BE),2751773,2791857
+8075281,Henrick Bruno,Constantijn Huygens,1644-08-05,7807538,7807069,Den Haag (NL),Assenede (BE),2747373,2803026
+8075333,Constantijn Huygens,Marin Mersenne,1644-08-16,7807069,7584584,Assenede (BE),Paris (FR),2803026,2988507
+8075346,Marin Mersenne,Constantijn Huygens,1644-08-20,7584584,7807069,Paris (FR),Assenede (BE),2988507,2803026
+8075353,Johannes Smetius,Constantijn Huygens,1644-08-22,7807283,7807069,Nijmegen (NL),Assenede (BE),2750053,2803026
+8075382,Anthony Studler van Surck,Constantijn Huygens,1644-08-30,8100268,7807069,Bergen op Zoom (NL),Assenede (BE),2759145,2803026
+8075467,Alphonse Pollot,Constantijn Huygens,1644-09-22,7582261,7807069,Paris (FR),Assenede (BE),2988507,2803026
+8075750,Jan Janszn. Stampioen,Christiaan Huygens,1645,7807809,7807824,Den Haag (NL),Leiden (NL),2747373,2751773
+8076151,David le Leu de Wilhem,Constantijn Huygens,1645-07-04,7807253,7807069,Den Haag (NL),Zelzate (BE),2747373,2783278
+8076684,Marin Mersenne,Constantijn Huygens,1646-09,7584584,7807069,Paris (FR),,2988507,
+8076692,Constantijn Huygens,Marin Mersenne,1646-09-12,7807069,7584584,Sint-Gillis-Waas (BE),Paris (FR),2786694,2988507
+8076707,Constantijn Huygens,Samuel Johnson,1646-09-27,7807069,7808263,Bergen op Zoom (NL),Bergen op Zoom (NL),2759145,2759145
+8076731,Christiaan Huygens,Marin Mersenne,1646-10-28,7807824,7584584,Leiden (NL),Paris (FR),2751773,2988507
+8076768,Marin Mersenne,Christiaan Huygens,1646-12-08,7584584,7807824,Paris (FR),,2988507,
+8076803,Marin Mersenne,Constantijn Huygens,1647-01-03,7584584,7807069,Paris (FR),Den Haag (NL),2988507,2747373
+8076811,Marin Mersenne,Christiaan Huygens,1647-01-08,7584584,7807824,Paris (FR),Breda (NL),2988507,2758401
+8076814,Marin Mersenne,Constantijn Huygens,1647-01-12,7584584,7807069,Paris (FR),Den Haag (NL),2988507,2747373
+8076815,Johannes Smetius,Constantijn Huygens,1647-01-14,7807283,7807069,Nijmegen (NL),Den Haag (NL),2750053,2747373
+8076832,Joachim Descartes,Marin Mersenne,1647-01-29,7807910,7584584,Nantes (FR),Paris (FR),2990969,2988507
+8077046,Henrick Bruno,Constantijn Huygens,1647-12-13,7807538,7807069,Alkmaar (NL),Den Haag (NL),2759899,2747373
+8077056,Florimond Debeaune,Frans van Schooten,1648,7807514,7807852,Blois (FR),Leiden (NL),3032213,2751773
+8077075,Marin Mersenne,Constantijn Huygens,1648-01-04,7584584,7807069,Paris (FR),Den Haag (NL),2988507,2747373
+8077081,Constantijn Huygens,Marin Mersenne,1648-01-13,7807069,7584584,Den Haag (NL),Paris (FR),2747373,2988507
+8077143,Marin Mersenne,Constantijn Huygens,1648-03-17,7584584,7807069,Paris (FR),Den Haag (NL),2988507,2747373
+8077155,Constantijn Huygens,Marin Mersenne,1648-04-06,7807069,7584584,Den Haag (NL),Paris (FR),2747373,2988507
+8077169,Marin Mersenne,Christiaan Huygens,1648-05-02,7584584,7807824,Paris (FR),Den Haag (NL),2988507,2747373
+8077186,Frans van Schooten,Christiaan Huygens,1648-06-03,7807852,7807824,Leiden (NL),Den Haag (NL),2751773,2747373
+8077241,Constantijn Huygens,André Rivet,1648-09-03,7807069,7807233,Groningen (NL),Breda (NL),2755251,2758401
+8077266,Frans van Schooten,Constantijn Huygens,1648-11-03,7807852,7807069,Leiden (NL),Den Haag (NL),2751773,2747373
+8077449,Christiaan Huygens,Constantijn Jr. Huygens,1649-12-25,7807824,7807952,Den Haag (NL),Genève (CH),2747373,2660646
+8077452,Christiaan Huygens,,1650-03-29,7807824,,,,,
+8077484,Christiaan Huygens,Constantijn Jr. Huygens,1650-03-29,7807824,7807952,Den Haag (NL),,2747373,
+8077486,Constantijn Huygens,Christina Queen of Sweden,1650-04-05,7807069,7807370,Den Haag (NL),Stockholm (SE),2747373,2673730
+8077490,Christiaan Huygens,Constantijn Jr. Huygens,1650-04-12,7807824,7807952,Den Haag (NL),,2747373,
+8077496,Constantijn Jr. Huygens,Christiaan Huygens,1650-05-29,7807952,7807824,Roma (IT),Den Haag (NL),3169070,2747373
+8077503,Constantijn Huygens,Pierre Chanut,1650-07-26,7807069,7807895,Den Haag (NL),Stockholm (SE),2747373,2673730
+8077527,Frans van Schooten,Christiaan Huygens,1650-09-27,7807852,7807824,Leiden (NL),Den Haag (NL),2751773,2747373
+9906702,Joachim Hübner,Samuel Hartlib,1636-12-16,9906621,8125439,Oxford (GB),Reading (GB),2640729,2639577
+9906703,Jan Amos Komenský,Samuel Hartlib,1638-01-26,9906622,8125439,Leszno (PL),London (GB),3093524,2643743
+9906704,Johann Adolf Tasse,Samuel Hartlib,1638-02-21,9906623,8125439,Hamburg (DE),London (GB),2911298,2643743
+9906705,Joachim Hübner,Samuel Hartlib,1638-01-04,9906621,8125439,London (GB),London (GB),2643743,2643743
+9906706,Abraham von Franckenberg,Samuel Hartlib,1638-06-01,9906624,8125439,Ludwikowice Kłodzkie (PL),London (GB),3092757,2643743
+9906707,Samuel Hartlib,Johann Adolf Tasse,1638-08-10,8125439,9906623,London (GB),Hamburg (DE),2643743,2911298
+9906708,Johann Heinrich Bisterfeld,Samuel Hartlib,1638-09-19,7807484,8125439,Amsterdam (NL),London (GB),2759794,2643743
+9906709,Joachim Hübner,Jan Amos Komenský,1638-12-24,9906621,9906622,London (GB),Leszno (PL),2643743,3093524
+9906710,Joachim Hübner,Jan Amos Komenský,1639-11,9906621,9906622,London (GB),Leszno (PL),2643743,3093524
+9906711,Joachim Hübner,Samuel Hartlib,1638,9906621,8125439,London (GB),London (GB),2643743,2643743
+9906712,Joachim Hübner,Jan Amos Komenský,1640-03-01,9906621,9906622,London (GB),Leszno (PL),2643743,3093524
+9906713,John Dury,Samuel Hartlib,1640-05-01,7807769,8125439,Hamburg (DE),London (GB),2911298,2643743
+9906714,Marin Mersenne,Jan Amos Komenský,1640-11-22,7584584,9906622,Paris (FR),Leszno (PL),2988507,3093524
+9906716,,Marin Mersenne,1643-04-04,,7584584,Paris (FR),Paris (FR),2988507,2988507
+9906717,Jan Amos Komenský,Johannes Hevelius,1645-02-08,9906622,9604347,Elblag (PL),Gdańsk (PL),3099759,3099434
+9906718,Heinrich Appelius,Samuel Hartlib,1646-06-01,9906625,8125439,Amsterdam (NL),London (GB),2759794,2643743
+9906719,Claude de Saumaise,Isaäc Vossius,1649-11-10,7807103,7807544,Leiden (NL),,2751773,
+9906720,Isaäc Vossius,Claude de Saumaise,1649-12,7807544,7807103,Stockholm (SE),Leiden (NL),2673730,2751773
+9906721,Isaäc Vossius,Claude de Saumaise,1650-01,7807544,7807103,,,,
+9906722,Isaäc Vossius,Claude de Saumaise,1650-02-16,7807544,7807103,Stockholm (SE),,2673730,
+9906723,Johann Moriaen,Samuel Hartlib,1650-03-11,8125428,8125439,Amsterdam (NL),London (GB),2759794,2643743
+9906724,Isaäc Vossius,Claude de Saumaise,1650-05,7807544,7807103,,,,
+9913472,Marin Mersenne,André Rivet,1629-02-28,7584584,7807233,Paris (FR),Leiden (NL),2988507,2751773
+9913482,Marin Mersenne,André Rivet,1629-09-13,7584584,7807233,Paris (FR),Leiden (NL),2988507,2751773
+9913555,Marin Mersenne,André Rivet,1631-11-20,7584584,7807233,Paris (FR),Leiden (NL),2988507,2751773
+9913562,Marin Mersenne,André Rivet,1632-03-14,7584584,7807233,Paris (FR),Den Haag (NL),2988507,2747373
+9913571,Marin Mersenne,André Rivet,1632-09-17,7584584,7807233,Paris (FR),Den Haag (NL),2988507,2747373
+9913656,Marin Mersenne,André Rivet,1634-02-08,7584584,7807233,Paris (FR),Den Haag (NL),2988507,2747373
+9913912,Marin Mersenne,André Rivet,1636-09-15,7584584,7807233,Paris (FR),Den Haag (NL),2988507,2747373
+9913928,Aimé de Gaignières,Marin Mersenne,1637-02-17,9910974,7584584,Auxerre (FR),Paris (FR),3035843,2988507
+9913963,Joachim Hübner,Samuel Hartlib,1637-06-21,9906621,8125439,Oxford (GB),London (GB),2640729,2643743
+9913967,Joachim Hübner,Samuel Hartlib,1637-08-16,9906621,8125439,Oxford (GB),London (GB),2640729,2643743
+9913970,Kenelm Digby,Thomas Hobbes,1637-10-04,9906629,7807623,Paris (FR),Worksop (GB),2988507,2633551
+9913976,Marin Mersenne,Galileo Galilei,1637-11-27,7584584,7807393,Paris (FR),Firenze (IT),2988507,3176959
+9913977,Gabriel Naudé,Cassiano Dal Pozzo,1637-12-04,9911076,9911063,Rieti (IT),Roma (IT),3169412,3169070
+9913984,Jan Albert Ban,William Boswell,1638-01-15,9911049,7808136,Haarlem (NL),Den Haag (NL),2755003,2747373
+9913985,Pierre de Fermat,Marin Mersenne,1638-01,7584740,7584584,Toulouse (FR),Paris (FR),2972315,2988507
+9913988,Marin Mersenne,André Rivet,1638-01-20,7584584,7807233,Paris (FR),Den Haag (NL),2988507,2747373
+9913995,Pierre de Fermat,Marin Mersenne,1638-02,7584740,7584584,Toulouse (FR),Paris (FR),2972315,2988507
+9913998,Jean de Beaugrand,Marin Mersenne,1638-03,7584807,7584584,Paris (FR),Paris (FR),2988507,2988507
+9914002,Henricus Reneri,Marin Mersenne,1638-03,7568881,7584584,Utrecht (NL),Paris (FR),2745912,2988507
+9914006,Girard Desargues,Marin Mersenne,1638-04,7808176,7584584,Paris (FR),Paris (FR),2988507,2988507
+9914008,Pierre de Fermat,Marin Mersenne,1638-04-20,7584740,7584584,Toulouse (FR),Paris (FR),2972315,2988507
+9914010,André Rivet,Marin Mersenne,1638-04-29,7807233,7584584,Den Haag (NL),Paris (FR),2747373,2988507
+9914015,Marin Mersenne,André Rivet,1638-05-23,7584584,7807233,Paris (FR),Den Haag (NL),2988507,2747373
+9914018,Gilles Personne de Roberval,Pierre de Fermat,1638-06-01,7585018,7584740,Paris (FR),Toulouse (FR),2988507,2972315
+9914021,Pierre de Fermat,Marin Mersenne,1638-06-15,7584740,7584584,Toulouse (FR),Paris (FR),2972315,2988507
+9914026,Pierre de Fermat,Marin Mersenne,1638-06,7584740,7584584,Toulouse (FR),Paris (FR),2972315,2988507
+9914038,Pierre de Fermat,Marin Mersenne,1638-08-10,7584740,7584584,Toulouse (FR),Paris (FR),2972315,2988507
+9914043,Florimond Debeaune,Marin Mersenne,1638-09-25,7807514,7584584,Blois (FR),Paris (FR),3032213,2988507
+9914047,Florimond Debeaune,Gilles Personne de Roberval,1638-10-16,7807514,7585018,Blois (FR),Paris (FR),3032213,2988507
+9914048,Pierre de Fermat,Marin Mersenne,1638-10-22,7584740,7584584,Toulouse (FR),Paris (FR),2972315,2988507
+9914050,Florimond Debeaune,Marin Mersenne,1638-11-13,7807514,7584584,Blois (FR),Paris (FR),3032213,2988507
+9914052,Marin Mersenne,André Rivet,1638-11-20,7584584,7807233,Paris (FR),Den Haag (NL),2988507,2747373
+9914053,Gabriel Naudé,Cassiano Dal Pozzo,1638-11-24,9911076,9911063,Rieti (IT),Roma (IT),3169412,3169070
+9914057,Pierre de Fermat,Marin Mersenne,1638-12-26,7584740,7584584,Toulouse (FR),Paris (FR),2972315,2988507
+9914070,Florimond Debeaune,Marin Mersenne,1639-02-26,7807514,7584584,Blois (FR),Paris (FR),3032213,2988507
+9914072,Florimond Debeaune,Marin Mersenne,1639-03-05,7807514,7584584,Blois (FR),Paris (FR),3032213,2988507
+9914075,Florimond Debeaune,Marin Mersenne,1639-03-26,7807514,7584584,Blois (FR),Paris (FR),3032213,2988507
+9914076,Florimond Debeaune,Marin Mersenne,1639-04-03,7807514,7584584,Blois (FR),Paris (FR),3032213,2988507
+9914077,Jan Albert Ban,Marin Mersenne,1639-04-12,9911049,7584584,Haarlem (NL),Paris (FR),2755003,2988507
+9914079,Jan Albert Ban,Marin Mersenne,1639-04-17,9911049,7584584,Haarlem (NL),Paris (FR),2755003,2988507
+9914095,Samuel Sorbière,Claude Guiraud,1639-07-22,7807690,9910908,Paris (FR),Nîmes (FR),2988507,2990363
+9914107,Marin Mersenne,André Rivet,1639-09-15,7584584,7807233,Paris (FR),Den Haag (NL),2988507,2747373
+9914110,Jean Chapelain,Jean Louis Guez de Balzac,1639-10-09,7807545,7807183,Paris (FR),Angoulême (FR),2988507,3037598
+9914120,Marin Mersenne,Theodor Haak,1639-11-01,7584584,9906641,Paris (FR),London (GB),2988507,2643743
+9914129,Marin Mersenne,Theodor Haak,1639-11-24,7584584,9906641,Paris (FR),London (GB),2988507,2643743
+9914136,Marin Mersenne,André Rivet,1639-12-10,7584584,7807233,Paris (FR),Den Haag (NL),2988507,2747373
+9914138,Marin Mersenne,John Pell,1639-12-10,7584584,9911085,Paris (FR),London (GB),2988507,2643743
+9914143,Marin Mersenne,Theodor Haak,1639-12-31,7584584,9906641,Paris (FR),London (GB),2988507,2643743
+9914155,Marin Mersenne,Athanasius Kircher,1640-01-20,7584584,9911088,Paris (FR),Roma (IT),2988507,3169070
+9914157,Marin Mersenne,John Pell,1640-01-20,7584584,9911085,Paris (FR),London (GB),2988507,2643743
+9914158,John Pell,Marin Mersenne,1640-01-24,9911085,7584584,London (GB),Paris (FR),2643743,2988507
+9914166,Kenelm Digby,Marin Mersenne,1640-02-24,9906629,7584584,London (GB),Paris (FR),2643743,2988507
+9914170,Marin Mersenne,André Rivet,1640-02-28,7584584,7807233,Paris (FR),Den Haag (NL),2988507,2747373
+9914175,Marin Mersenne,John Pell,1640-03-01,7584584,9911085,Paris (FR),London (GB),2988507,2643743
+9914179,Marin Mersenne,John Pell,1640-03-07,7584584,9911085,Paris (FR),London (GB),2988507,2643743
+9914183,Kenelm Digby,Marin Mersenne,1640-03-15,9906629,7584584,London (GB),Paris (FR),2643743,2988507
+9914190,Pierre de Fermat,Marin Mersenne,1640-04-01,7584740,7584584,Toulouse (FR),Paris (FR),2972315,2988507
+9914196,Marin Mersenne,André Rivet,1640-04-24,7584584,7807233,Paris (FR),Den Haag (NL),2988507,2747373
+9914202,Marin Mersenne,Theodor Haak,1640-05-12,7584584,9906641,Paris (FR),London (GB),2988507,2643743
+9914204,Marin Mersenne,Charles Cavendish,1640-05-12,7584584,7808257,Paris (FR),Worksop (GB),2988507,2633551
+9914206,Jean Chapelain,Jean Louis Guez de Balzac,1640-05-13,7807545,7807183,Paris (FR),Balzac (FR),2988507,3035181
+9914207,Jean Chapelain,Jean Louis Guez de Balzac,1640-05-19,7807545,7807183,Paris (FR),Balzac (FR),2988507,3035181
+9914211,Marin Mersenne,André Rivet,1640-05-22,7584584,7807233,Paris (FR),Den Haag (NL),2988507,2747373
+9914212,Jan Albert Ban,Marin Mersenne,1640-05-24,9911049,7584584,Haarlem (NL),Paris (FR),2755003,2988507
+9914215,Lazare Meyssonnier,Marin Mersenne,1640-05-31,7808183,7584584,Lyon (FR),Paris (FR),2996944,2988507
+9914216,Marin Mersenne,André Rivet,1640-06-01,7584584,7807233,Paris (FR),,2988507,
+9914235,Christophe de Villiers,Marin Mersenne,1640-07-07,9910994,7584584,Sens (FR),Paris (FR),2975050,2988507
+9914258,Théodore Deschamps,Marin Mersenne,1640-08-29,9910988,7584584,Bergerac (FR),Paris (FR),3033391,2988507
+9914267,Giovanni Battista Baliani,Marin Mersenne,1640-10-01,9910972,7584584,Genova (IT),Paris (FR),3176219,2988507
+9914269,Christophe de Villiers,Marin Mersenne,1640-10-04,9910994,7584584,Sens (FR),Paris (FR),2975050,2988507
+9914272,Gysbertus Voetius,Marin Mersenne,1640-10-30,7584535,7584584,Utrecht (NL),Paris (FR),2745912,2988507
+9914276,Christophe de Villiers,Marin Mersenne,1640-10-30,9910994,7584584,Sens (FR),Paris (FR),2975050,2988507
+9914291,Christophe de Villiers,Marin Mersenne,1640-11-24,9910994,7584584,Sens (FR),Paris (FR),2975050,2988507
+9914296,Christophe de Villiers,Marin Mersenne,1640-12-09,9910994,7584584,Sens (FR),Paris (FR),2975050,2988507
+9914298,Marin Mersenne,André Rivet,1640-12-14,7584584,7807233,Paris (FR),Den Haag (NL),2988507,2747373
+9914302,Théodore Deschamps,Marin Mersenne,1640-12,9910988,7584584,Bergerac (FR),Paris (FR),3033391,2988507
+9914303,Christophe de Villiers,Marin Mersenne,1641-01-03,9910994,7584584,Sens (FR),Paris (FR),2975050,2988507
+9914338,Christophe de Villiers,Marin Mersenne,1641-03-23,9910994,7584584,Sens (FR),Paris (FR),2975050,2988507
+9914346,Marin Mersenne,John Pell,1641-05-01,7584584,9911085,Paris (FR),London (GB),2988507,2643743
+9914348,Pierre Gassendi,Louis-Emmanuel de Valois,1641-05-03,7807204,9910980,Paris (FR),Aix-en-Provence (FR),2988507,3038354
+9914355,Christophe de Villiers,Marin Mersenne,1641-06-01,9910994,7584584,Sens (FR),Paris (FR),2975050,2988507
+9914363,Pierre Gassendi,Louis-Emmanuel de Valois,1641-07-19,7807204,9910980,Paris (FR),Toulon (FR),2988507,2972328
+9914374,Marin Mersenne,André Rivet,1641-08-26,7584584,7807233,Paris (FR),Den Haag (NL),2988507,2747373
+9914375,Joachim Hübner,Marin Mersenne,1641-08-29,9906621,7584584,London (GB),Paris (FR),2643743,2988507
+9914375,Theodor Haak,Marin Mersenne,1641-08-29,9906641,7584584,London (GB),Paris (FR),2643743,2988507
+9914381,Marin Mersenne,André Rivet,1641-09-23,7584584,7807233,Paris (FR),Den Haag (NL),2988507,2747373
+9914388,Marin Mersenne,André Rivet,1641-11-01,7584584,7807233,Paris (FR),Den Haag (NL),2988507,2747373
+9914393,Marin Mersenne,André Rivet,1641-11-25,7584584,7807233,Paris (FR),Den Haag (NL),2988507,2747373
+9914415,Marin Mersenne,André Rivet,1642-02-08,7584584,7807233,Paris (FR),Den Haag (NL),2988507,2747373
+9914418,Jean Durelle,Marin Mersenne,1642-02-26,9910942,7584584,Roanne (FR),Paris (FR),2983362,2988507
+9914421,Marin Mersenne,André Rivet,1642-03-15,7584584,7807233,Paris (FR),Den Haag (NL),2988507,2747373
+9914423,Théodore Deschamps,Marin Mersenne,1642-03-26,9910988,7584584,Bergerac (FR),Paris (FR),3033391,2988507
+9914425,Jan Albert Ban,Constantijn Huygens,1642-04-02,9911049,7807069,Haarlem (NL),Den Haag (NL),2755003,2747373
+9914427,Adriaan Heereboord,Andreas Colvius,1642-04-08,7569869,7807517,Leiden (NL),Dordrecht (NL),2751773,2756669
+9914431,Marin Mersenne,André Rivet,1642-04-17,7584584,7807233,Paris (FR),Den Haag (NL),2988507,2747373
+9914432,Théodore Deschamps,Marin Mersenne,1642-04-18,9910988,7584584,Bergerac (FR),Paris (FR),3033391,2988507
+9914443,Marin Mersenne,André Rivet,1642-05-09,7584584,7807233,Paris (FR),Den Haag (NL),2988507,2747373
+9914448,Marin Mersenne,Samuel Sorbière,1642-06-01,7584584,7807690,Paris (FR),Amsterdam (NL),2988507,2759794
+9914450,Samuel Sorbière,Pierre Gassendi,1642-06-08,7807690,7807204,Amsterdam (NL),Paris (FR),2759794,2988507
+9914459,Christophe de Villiers,Marin Mersenne,1642-07-14,9910994,7584584,Sens (FR),Paris (FR),2975050,2988507
+9914466,Marin Mersenne,André Rivet,1642-08-15,7584584,7807233,Paris (FR),Den Haag (NL),2988507,2747373
+9914469,Samuel Sorbière,Marin Mersenne,1642-08-25,7807690,7584584,Den Haag (NL),Paris (FR),2747373,2988507
+9914471,Théodore Deschamps,Marin Mersenne,1642-08-30,9910988,7584584,Bergerac (FR),Paris (FR),3033391,2988507
+9914480,Jean Durelle,Marin Mersenne,1642-10-05,9910942,7584584,Roanne (FR),Paris (FR),2983362,2988507
+9914486,John Pell,Samuel Hartlib,1642-10-12,9911085,8125439,London (GB),Paris (FR),2643743,2988507
+9914487,Théodore Deschamps,Marin Mersenne,1642-10-31,9910988,7584584,Bergerac (FR),Paris (FR),3033391,2988507
+9914493,Jean-Baptiste Masoyer,Marin Mersenne,1642-11-20,9910944,7584584,Rennes (FR),Paris (FR),2983990,2988507
+9914498,Théodore Deschamps,Marin Mersenne,1642-12-22,9910988,7584584,Bergerac (FR),Paris (FR),3033391,2988507
+9914521,Martinus Ruarus,Marin Mersenne,1643-02-13,7807229,7584584,Gdańsk (PL),Paris (FR),3099434,2988507
+9914542,Théodore Deschamps,Marin Mersenne,1643-05-28,9910988,7584584,Bergerac (FR),Paris (FR),3033391,2988507
+9914543,Marin Mersenne,André Rivet,1643-05-29,7584584,7807233,Paris (FR),Den Haag (NL),2988507,2747373
+9914551,Thomas de Martel,Samuel Sorbière,1643-07-01,9910937,7807690,Paris (FR),Den Haag (NL),2988507,2747373
+9914559,Pierre de Fermat,Pierre de Carcavy,1643-07,7584740,7807978,Toulouse (FR),Paris (FR),2972315,2988507
+9914560,Gilles Personne de Roberval,Marin Mersenne,1643-07,7585018,7584584,Paris (FR),Paris (FR),2988507,2988507
+9914561,Marin Mersenne,Evangelista Torricelli,1643-08-01,7584584,9911068,Paris (FR),Firenze (IT),2988507,3176959
+9914572,Evangelista Torricelli,Marin Mersenne,1643-09,9911068,7584584,Firenze (IT),Paris (FR),3176959,2988507
+9914576,Jacques de Valois,Marin Mersenne,1643-10-11,9911015,7584584,Grenoble (FR),Paris (FR),3014728,2988507
+9914581,Théodore Deschamps,Marin Mersenne,1643-11-01,9910988,7584584,Bergerac (FR),Paris (FR),3033391,2988507
+9914592,Samuel Sorbière,Pierre Gassendi,1643-12-23,7807690,7807204,Sluis (NL),Paris (FR),,2988507
+9914601,Marin Mersenne,Evangelista Torricelli,1644-01-13,7584584,9911068,Paris (FR),Firenze (IT),2988507,3176959
+9914608,Adriaan Heereboord,Pierre Gassendi,1644-02-20,7569869,7807204,Leiden (NL),Paris (FR),2751773,2988507
+9914611,Théodore Deschamps,Marin Mersenne,1644-03-01,9910988,7584584,Bergerac (FR),Paris (FR),3033391,2988507
+9914623,André Rivet,Marin Mersenne,1644-03-28,7807233,7584584,Den Haag (NL),Paris (FR),2747373,2988507
+9914629,Marin Mersenne,André Rivet,1644-04-15,7584584,7807233,Paris (FR),Den Haag (NL),2988507,2747373
+9914632,Samuel Sorbière,Pierre Gassendi,1644-04-18,7807690,7807204,Den Haag (NL),Paris (FR),2747373,2988507
+9914636,Théodore Deschamps,Marin Mersenne,1644-05-08,9910988,7584584,Bergerac (FR),Paris (FR),3033391,2988507
+9914637,Samuel Sorbière,Pierre Gassendi,1644-05-10,7807690,7807204,Den Haag (NL),Paris (FR),2747373,2988507
+9914644,Martinus Ruarus,Marin Mersenne,1644-06-20,7807229,7584584,Straszyn (PL),Paris (FR),3084527,2988507
+9914645,Marin Mersenne,Evangelista Torricelli,1644-06-24,7584584,9911068,Paris (FR),Firenze (IT),2988507,3176959
+9914648,Nicolas Méliand,Marin Mersenne,1644-07-10,9910922,7584584,Paris (FR),Paris (FR),2988507,2988507
+9914654,Charles Cavendish,John Pell,1644-08-05,7808257,9911085,Hamburg (DE),Amsterdam (NL),2911298,2759794
+9914657,John Pell,Charles Cavendish,1644-08-17,9911085,7808257,Amsterdam (NL),Hamburg (DE),2759794,2911298
+9914659,Charles Cavendish,John Pell,1644-08-26,7808257,9911085,Hamburg (DE),Amsterdam (NL),2911298,2759794
+9914667,John Pell,Charles Cavendish,1644-09-17,9911085,7808257,Amsterdam (NL),Hamburg (DE),2759794,2911298
+9914669,Henricus Bornius,Pierre Gassendi,1644-09-20,7807903,7807204,Utrecht (NL),Paris (FR),2745912,2988507
+9914670,Charles Cavendish,John Pell,1644-09-29,7808257,9911085,Hamburg (DE),Amsterdam (NL),2911298,2759794
+9914671,Pierre Gassendi,Henricus Bornius,1644-10-01,7807204,7807903,Paris (FR),Utrecht (NL),2988507,2745912
+9914675,Charles Cavendish,John Pell,1644-10-20,7808257,9911085,Hamburg (DE),Amsterdam (NL),2911298,2759794
+9914685,Ismaël Boulliau,Marin Mersenne,1644-12-16,9604321,7584584,Paris (FR),Roma (IT),2988507,3169070
+9914687,Charles Cavendish,John Pell,1644-12-20,7808257,9911085,Hamburg (DE),Amsterdam (NL),2911298,2759794
+9914691,Charles Cavendish,John Pell,1644-12-27,7808257,9911085,Hamburg (DE),Amsterdam (NL),2911298,2759794
+9914701,Marin Mersenne,Evangelista Torricelli,1645-01-20,7584584,9911068,Roma (IT),Firenze (IT),3169070,3176959
+9914714,Claude Mylon,Marin Mersenne,1645-02-25,9604364,7584584,Paris (FR),Roma (IT),2988507,3169070
+9914722,Marin Mersenne,Evangelista Torricelli,1645-03-15,7584584,9911068,Roma (IT),Firenze (IT),3169070,3176959
+9914724,Evangelista Torricelli,Marin Mersenne,1645-03-21,9911068,7584584,Firenze (IT),Roma (IT),3176959,3169070
+9914729,Charles Cavendish,John Pell,1645-04-05,7808257,9911085,Antwerpen (BE),Amsterdam (NL),2803138,2759794
+9914734,Charles Cavendish,John Pell,1645-05-11,7808257,9911085,Paris (FR),Amsterdam (NL),2988507,2759794
+9914739,Michelangelo Ricci,Evangelista Torricelli,1645-06-18,9911051,9911068,Roma (IT),Firenze (IT),3169070,3176959
+9914761,Théodore Deschamps,Marin Mersenne,1645-11-01,9910988,7584584,Bergerac (FR),Paris (FR),3033391,2988507
+9914776,Marin Mersenne,Evangelista Torricelli,1645-12-13,7584584,9911068,Paris (FR),Firenze (IT),2988507,3176959
+9914779,Gilles Personne de Roberval,Evangelista Torricelli,1645-11-01,7585018,9911068,Paris (FR),Firenze (IT),2988507,3176959
+9914797,Michelangelo Ricci,Evangelista Torricelli,1646-03,9911051,9911068,Roma (IT),Firenze (IT),3169070,3176959
+9914801,Marin Mersenne,Charles Cavendish,1646-03-08,7584584,7808257,Paris (FR),London (GB),2988507,2643743
+9914805,Charles Cavendish,John Pell,1646-02-28,7808257,9911085,Paris (FR),Amsterdam (NL),2988507,2759794
+9914806,Giovanni Battista Baliani,Marin Mersenne,1646-03-10,9910972,7584584,Genova (IT),Paris (FR),3176219,2988507
+9914816,Charles Cavendish,John Pell,1646-03-21,7808257,9911085,Paris (FR),Amsterdam (NL),2988507,2759794
+9914818,Honoré de Fabri,Marin Mersenne,1646-04-02,9911082,7584584,Lyon (FR),Paris (FR),2996944,2988507
+9914819,John Pell,Charles Cavendish,1646-04-02,9911085,7808257,Amsterdam (NL),Paris (FR),2759794,2988507
+9914823,Marin Mersenne,Evangelista Torricelli,1646-04-18,7584584,9911068,Paris (FR),Firenze (IT),2988507,3176959
+9914828,Charles Cavendish,John Pell,1646-04-18,7808257,9911085,Paris (FR),Amsterdam (NL),2988507,2759794
+9914829,de Méru,Marin Mersenne,1646-04-30,9910966,7584584,Nevers (FR),Paris (FR),2990474,2988507
+9914830, Bonnel,Marin Mersenne,1646-04,9910971,7584584,Montpellier (FR),Paris (FR),2992166,2988507
+9914834,John Pell,Charles Cavendish,1646-05-04,9911085,7808257,Amsterdam (NL),Paris (FR),2759794,2988507
+9914837,Thomas Hobbes,Samuel Sorbière,1646-05-16,7807623,7807690,Paris (FR),Den Haag (NL),2988507,2747373
+9914839,John Pell,Charles Cavendish,1646-05-11,9911085,7808257,Amsterdam (NL),Paris (FR),2759794,2988507
+9914840,Gilles Personne de Roberval,Charles Cavendish,1646-05-23,7585018,7808257,Paris (FR),Paris (FR),2988507,2988507
+9914842,Charles Cavendish,John Pell,1646-06-01,7808257,9911085,Paris (FR),Amsterdam (NL),2988507,2759794
+9914848, Bonnel,Marin Mersenne,1646-07-02,9910971,7584584,Montpellier (FR),,2992166,
+9914851,Evangelista Torricelli,Marin Mersenne,1646-07-07,9911068,7584584,Firenze (IT),,3176959,
+9914860,Charles Cavendish,John Pell,1646-08-07,7808257,9911085,Paris (FR),Amsterdam (NL),2988507,2759794
+9914862,Constantijn Huygens,Marin Mersenne,1646-08-21,7807069,7584584,Sint-Gillis-Waas (BE),Paris (FR),2786694,2988507
+9914864,Marin Mersenne,Evangelista Torricelli,1646-08-26,7584584,9911068,Paris (FR),Firenze (IT),2988507,3176959
+9914870,Marin Mersenne,André Rivet,1646-09-07,7584584,7807233,Paris (FR),Den Haag (NL),2988507,2747373
+9914873,Marin Mersenne,Evangelista Torricelli,1646-09-15,7584584,9911068,Paris (FR),Firenze (IT),2988507,3176959
+9914892,Marin Mersenne,André Rivet,1646-10-11,7584584,7807233,Paris (FR),Den Haag (NL),2988507,2747373
+9914896,Charles Cavendish,Marin Mersenne,1646-10-13,7808257,7584584,Paris (FR),Paris (FR),2988507,2988507
+9914905,Marin Mersenne,Ismaël Boulliau,1646-10-26,7584584,9604321,Paris (FR),Venezia (IT),2988507,3164603
+9914933,Charles Cavendish,John Pell,1646-12-07,7808257,9911085,Paris (FR),Breda (NL),2988507,2758401
+9914939,Marin Mersenne,André Rivet,1646-12-20,7584584,7807233,Paris (FR),Breda (NL),2988507,2758401
+9914945,Marin Mersenne,Johannes Hevelius,1647-01-01,7584584,9604347,Paris (FR),Gdańsk (PL),2988507,3099434
+9914960,Samuel Sorbière,Thomas Bartholin,1647-02-01,7807690,9911101,Den Haag (NL),Copenhagen (DK),2747373,2618425
+9914962,Gabriel Thibaut,Marin Mersenne,1647-02-03,9910954,7584584,Chaumont (FR),Paris (FR),3025892,2988507
+9914968,Marin Mersenne,Cassiano Dal Pozzo,1647-02-20,7584584,9911063,Paris (FR),Roma (IT),2988507,3169070
+9914973,Samuel Sorbière,Marin Mersenne,1647-03-04,7807690,7584584,Den Haag (NL),Paris (FR),2747373,2988507
+9914978,Marin Mersenne,Samuel Sorbière,1647-03-21,7584584,7807690,Paris (FR),Den Haag (NL),2988507,2747373
+9914982,Gabriel Thibaut,Marin Mersenne,1647-04-01,9910954,7584584,Chaumont (FR),Paris (FR),3025892,2988507
+9914985,Samuel Sorbière,Marin Mersenne,1647-04-15,7807690,7584584,Den Haag (NL),Paris (FR),2747373,2988507
+9914996,Gabriel Thibaut,Marin Mersenne,1647-06-03,9910954,7584584,Chaumont (FR),Paris (FR),3025892,2988507
+9914999,Gabriel Thibaut,Marin Mersenne,1647-06-22,9910954,7584584,Chaumont (FR),Paris (FR),3025892,2988507
+9915004,Jacques-Alexandre le Tenneur,Marin Mersenne,1647-07-09,9910955,7584584,Tours (FR),Paris (FR),2972191,2988507
+9915007,Giovanni Battista Baliani,Marin Mersenne,1647-07-16,9910972,7584584,Savona (IT),Paris (FR),3167022,2988507
+9915013,Giovanni Battista Baliani,Marin Mersenne,1647-07-30,9910972,7584584,Savona (IT),Paris (FR),3167022,2988507
+9915041,Jacqueline Pascal,Gilberte Pascal Périer,1647-09-25,9592113,9910894,Paris (FR),Rouen (FR),2988507,2982652
+9915043,Jean François,Marin Mersenne,1647-09-28,9910968,7584584,Nevers (FR),Paris (FR),2990474,2988507
+9915046,Giovanni Battista Baliani,Marin Mersenne,1647-10-01,9910972,7584584,Savona (IT),Paris (FR),3167022,2988507
+9915047,Samuel Sorbière,Marin Mersenne,1647-10-04,7807690,7584584,Leiden (NL),Paris (FR),2751773,2988507
+9915054,Jacques-Alexandre le Tenneur,Marin Mersenne,1647-10-21,9910955,7584584,Tours (FR),Paris (FR),2972191,2988507
+9915062,Marin Mersenne,Samuel Sorbière,1647-11-05,7584584,7807690,Paris (FR),Den Haag (NL),2988507,2747373
+9915081,Marin Mersenne,Johannes Hevelius,1647-12-20,7584584,9604347,Paris (FR),Gdańsk (PL),2988507,3099434
+9915083,Samuel Sorbière,Marin Mersenne,1647-12-23,7807690,7584584,Den Haag (NL),Paris (FR),2747373,2988507
+9915095,Giovanni Battista Baliani,Marin Mersenne,1648-01-08,9910972,7584584,Savona (IT),Paris (FR),3167022,2988507
+9915097,Samuel Sorbière,Marin Mersenne,1648-01-11,7807690,7584584,Leiden (NL),Paris (FR),2751773,2988507
+9915101,Jacques-Alexandre le Tenneur,Marin Mersenne,1648-01-16,9910955,7584584,Tours (FR),Paris (FR),2972191,2988507
+9915102,Marin Mersenne,Johannes Hevelius,1648-01-20,7584584,9604347,Paris (FR),Gdańsk (PL),2988507,3099434
+9915108,Gabriel Thibaut,Marin Mersenne,1648-02-07,9910954,7584584,Chaumont (FR),Paris (FR),3025892,2988507
+9915110, Courtemblay,Marin Mersenne,1648-02-11,9910904,7584584,Paris (FR),Paris (FR),2988507,2988507
+9915123,de Méru,Marin Mersenne,1648-03-05,9910966,7584584,Nevers (FR),Paris (FR),2990474,2988507
+9915124,Michelangelo Ricci,Marin Mersenne,1648-03-06,9911051,7584584,Roma (IT),Paris (FR),3169070,2988507
+9915125,Athanasius Kircher,Marin Mersenne,1648-03-10,9911088,7584584,Roma (IT),Paris (FR),3169070,2988507
+9915135,Pierre Chanut,Marin Mersenne,1648-03-21,7807895,7584584,Stockholm (SE),Paris (FR),2673730,2988507
+9915140,Gabriel Thibaut,Marin Mersenne,1648-04-05,9910954,7584584,Chaumont (FR),Paris (FR),3025892,2988507
+9915145,Marin Mersenne,Constantijn Huygens,1648-04-17,7584584,7807069,Paris (FR),Den Haag (NL),2988507,2747373
+9915152,Johannes Hevelius,Marin Mersenne,1648-04-24,9604347,7584584,Gdańsk (PL),Paris (FR),3099434,2988507
+9915154,Étienne Pascal,Étienne Noël,1648-04,7584907,7808265,Rouen (FR),Paris (FR),2982652,2988507
+9915161,François Bonneau du Verdus,Marin Mersenne,1648-05-07,9910945,7584584,Bordeaux (FR),Paris (FR),3031582,2988507
+9915168,Gabriel Thibaut,Marin Mersenne,1648-05-24,9910954,7584584,Chaumont (FR),Paris (FR),3025892,2988507
+9915184,Aimé de Gaignières,Marin Mersenne,1648-06-24,9910974,7584584,Auxerre (FR),Paris (FR),3035843,2988507
+9915186,Jacques de Valois,Marin Mersenne,1648-06-28,9911015,7584584,Grenoble (FR),Paris (FR),3014728,2988507
+9915189,Gabriel Thibaut,Marin Mersenne,1648-07-01,9910954,7584584,Chaumont (FR),Paris (FR),3025892,2988507
+9915194,Giovanni Battista Baliani,Marin Mersenne,1648-07-04,9910972,7584584,Genova (IT),Paris (FR),3176219,2988507
+9915198,Emmanuel Maignan,Marin Mersenne,1648-07-17,9911053,7584584,Roma (IT),Paris (FR),3169070,2988507
+9915206,Jacques de Valois,Marin Mersenne,1648-07-29,9911015,7584584,Grenoble (FR),Paris (FR),3014728,2988507
+9915208,Charles Cavendish,John Pell,1648-08-02,7808257,9911085,Rotterdam (NL),Breda (NL),2747891,2758401
+9915215,Adrien Auzout,Marin Mersenne,1648-08-21,7808279,7584584,Azay-le-Ferron (FR),Paris (FR),3035549,2988507
+9999514,Florimond Debeaune,Gilles Personne de Roberval,1638-10-10,7807514,7585018,Blois (FR),Paris (FR),3032213,2988507
+10107744,Jean-Maximilien de l'Ange,André Rivet,1637-10-24,10107740,7807233,Gaillon (FR),Den Haag (NL),3016807,2747373
+10270581,Marin Mersenne,Theodor Haak,1640-11-16,7584584,9906641,Paris (FR),London (GB),2988507,2643743
+10270582,Marin Mersenne,Theodor Haak,1640-12-13,7584584,9906641,Paris (FR),London (GB),2988507,2643743
